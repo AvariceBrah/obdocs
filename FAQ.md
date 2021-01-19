@@ -47,7 +47,7 @@ NO. You will be permanently banned from the bot on all accounts. However, you ma
 You can use `+bank --text` or `+bank --text --full` to see the names of your items.
 
 ##### How do I sell all my bank, or an entire page, at once?
-This is not currently possible, but might be added in a future update.
+Selling by page is not currently possible, but might be added in a future update. To sell a skilling related tabs contents +sell --farming (example). To sell everything in your bank that is not favorited +sell all.
 
 ##### Can I trade items with someone else?
 It is currently not possible to trade someone items for items, however you can use the `+sellto` command to sell items to another player.
